@@ -1,3 +1,3 @@
-# hogwarts_sorting_magic_hat_mobile_application
+# magic_hat
 
 A new Flutter project.
